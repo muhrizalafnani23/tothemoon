@@ -1,2 +1,2 @@
 # tothemoon
-simple http server using golang, demo for my student
+simple http server using golang
